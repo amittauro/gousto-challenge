@@ -1,4 +1,4 @@
-[
+let boxes = [
   {
     "id": "PK-MED-01",
     "name": "Medium",

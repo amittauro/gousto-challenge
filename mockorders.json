@@ -1,0 +1,27 @@
+let mockOrders = [
+  {
+    "id": "1",
+    "ingredients": [
+      {
+        "name": "radishes",
+        "volumeCm3": 9
+      },
+      {
+        "name": "aubergine",
+        "volumeCm3": 18
+      },
+      {
+        "name": "super pasta",
+        "volumeCm3": 27
+      },
+      {
+        "name": "honey",
+        "volumeCm3": 7.2
+      },
+      {
+        "name": "duck",
+        "volumeCm3": 23
+      }
+    ]
+  }
+]
